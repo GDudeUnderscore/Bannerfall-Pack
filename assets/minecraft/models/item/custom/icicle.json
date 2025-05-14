@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/custom/frost_blade"
+		"layer0": "item/custom/icicle"
 	},
     "display": {
         "thirdperson_righthand": {
