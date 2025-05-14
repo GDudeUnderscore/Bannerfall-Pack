@@ -7,7 +7,8 @@
             "model": "item/wooden_shovel"
         },
         "cases": [
-            {"when": "divinity","model": {"type": "model","model": "item/custom/divinity"}}
+            {"when": "divinity","model": {"type": "model","model": "item/custom/divinity"}},
+            {"when": "fangspear","model": {"type": "model","model": "item/custom/fangspear"}}
         ]
     }
 }
