@@ -10,7 +10,7 @@
             {"when": "steel_katana","model": {"type": "model","model": "item/custom/steel_katana"}},
             {"when": "steel_sword","model": {"type": "model","model": "item/custom/steel_sword"}},
             {"when": "flaming_dagger","model": {"type": "model","model": "item/custom/flaming_dagger"}},
-            {"when": "frost_blade","model": {"type": "model","model": "item/custom/frost_blade"}},
+            {"when": "icicle","model": {"type": "model","model": "item/custom/icicle"}},
             {"when": "swift_katana","model": {"type": "model","model": "item/custom/swift_katana"}}
         ]
     }
