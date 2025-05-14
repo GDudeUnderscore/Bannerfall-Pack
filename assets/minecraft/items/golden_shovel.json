@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/golden_aegis"
+        },
+        "cases": [
+            {"when": "golden_aegis","model": {"type": "model","model": "item/custom/golden_aegis"}}
+        ]
+    }
+}
