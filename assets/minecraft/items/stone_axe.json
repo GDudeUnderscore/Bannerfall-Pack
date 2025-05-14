@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_axe"
+        },
+        "cases": [
+            {"when": "heavy_axe","model": {"type": "model","model": "item/custom/heavy_axe"}},
+            {"when": "cobblestone_axe","model": {"type": "model","model": "item/custom/cobblestone_axe"}}
+        ]
+    }
+}

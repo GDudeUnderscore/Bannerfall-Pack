@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "block/gray_stained_glass"
+        },
+        "cases": [
+            {"when": "shroomjam_entity_broken","model": {"type": "model","model": "item/custom/shroomjam_swarm/shroomjam_entity_broken"}}
+        ]
+    }
+}

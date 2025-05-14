@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_shovel"
+        },
+        "cases": [
+            {"when": "flint_spear","model": {"type": "model","model": "item/custom/flint_spear"}},
+            {"when": "venomspire","model": {"type": "model","model": "item/custom/venomspire"}}
+        ]
+    }
+}

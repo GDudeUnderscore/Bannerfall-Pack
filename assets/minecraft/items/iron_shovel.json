@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_shovel"
+        },
+        "cases": [
+            {"when": "speed_spear","model": {"type": "model","model": "item/custom/speed_spear"}},
+            {"when": "iron_javelin","model": {"type": "model","model": "item/custom/iron_javelin"}}
+        ]
+    }
+}
