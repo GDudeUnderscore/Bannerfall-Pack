@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "heavy_axe","model": {"type": "model","model": "item/custom/heavy_axe"}},
-            {"when": "cobblestone_axe","model": {"type": "model","model": "item/custom/cobblestone_axe"}}
+            {"when": "cobblestone_axe","model": {"type": "model","model": "item/custom/cobblestone_axe"}},
+            {"when": "wintertusk","model": {"type": "model","model": "item/custom/wintertusk"}}
         ]
     }
 }
