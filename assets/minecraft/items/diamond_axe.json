@@ -7,7 +7,8 @@
             "model": "item/diamond_axe"
         },
         "cases": [
-            {"when": "mythril_greataxe","model": {"type": "model","model": "item/custom/mythril_greataxe"}}
+            {"when": "mythril_greataxe","model": {"type": "model","model": "item/custom/mythril_greataxe"}},
+            {"when": "fractalyte","model": {"type": "model","model": "item/custom/fractalyte"}}
         ]
     }
 }
