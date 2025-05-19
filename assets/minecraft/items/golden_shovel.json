@@ -4,7 +4,7 @@
         "property": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/golden_aegis"
+            "model": "item/golden_shovel"
         },
         "cases": [
             {"when": "golden_aegis","model": {"type": "model","model": "item/custom/golden_aegis"}}
