@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/hats/blue/fungcap_top",
-		"1": "item/hats/fungcap_bottom",
-		"2": "item/hats/blue/fungcap_side",
-		"particle": "item/hats/blue/fungcap_top"
+		"0": "item/hats/fungcap/blue/fungcap_top",
+		"1": "item/hats/fungcap/fungcap_bottom",
+		"2": "item/hats/fungcap/blue/fungcap_side",
+		"particle": "item/hats/fungcap/blue/fungcap_top"
 	},
 	"elements": [
 		{
