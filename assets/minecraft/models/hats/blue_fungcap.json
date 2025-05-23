@@ -1,0 +1,182 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/hats/blue/fungcap_top",
+		"1": "item/hats/fungcap_bottom",
+		"2": "item/hats/blue/fungcap_side",
+		"particle": "item/hats/blue/fungcap_top"
+	},
+	"elements": [
+		{
+			"from": [
+				0,
+				0,
+				0
+			],
+			"to": [
+				16,
+				7,
+				16
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						7
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						16,
+						7
+					],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						7
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						16,
+						7
+					],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [
+				-1.25,
+				0.75,
+				0
+			],
+			"scale": [
+				0.2,
+				0.2,
+				0.2
+			]
+		},
+		"thirdperson_lefthand": {
+			"translation": [
+				-1.25,
+				0.75,
+				0
+			],
+			"scale": [
+				0.2,
+				0.2,
+				0.2
+			]
+		},
+		"firstperson_righthand": {
+			"translation": [
+				3.25,
+				4,
+				0
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
+		},
+		"firstperson_lefthand": {
+			"translation": [
+				3.25,
+				4,
+				0
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
+		},
+		"ground": {
+			"translation": [
+				0,
+				-1.5,
+				0
+			],
+			"scale": [
+				0.2,
+				0.2,
+				0.2
+			]
+		},
+		"gui": {
+			"rotation": [
+				26,
+				45,
+				0
+			],
+			"translation": [
+				0,
+				1.5,
+				0
+			],
+			"scale": [
+				0.6,
+				0.6,
+				0.6
+			]
+		},
+		"head": {
+			"rotation": [
+				14,
+				11,
+				-1
+			],
+			"translation": [
+				0.25,
+				14.25,
+				1.75
+			],
+			"scale": [
+				1.5,
+				1.5,
+				1.5
+			]
+		},
+		"fixed": {
+			"translation": [
+				0,
+				0.25,
+				2.5
+			]
+		}
+	}
+}
