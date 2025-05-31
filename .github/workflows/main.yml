@@ -18,7 +18,7 @@ jobs:
     - name: Run PackSquash
       uses: ComunidadAylas/PackSquash-action@v4
       with:
-        packsquash_version: latest # Uses the latest PackSquash release supported by the action
+        packsquash_version: latest
         shader_source_transformation_strategy: keep_as_is
 
     - name: Create ZIP file
@@ -55,3 +55,24 @@ jobs:
         asset_path: ${{ github.workspace }}/${{ env.ZIP_NAME }}
         asset_name: ${{ env.ZIP_NAME }}
         asset_content_type: application/zip
+
+    - name: Checkout pack-dist branch
+      uses: actions/checkout@v2
+      with:
+        ref: pack-dist
+        path: pack-dist
+
+    - name: Copy ZIP to pack-dist
+      run: |
+        cp "${{ env.ZIP_NAME }}" pack-dist/RP.zip
+
+    - name: Commit and push to pack-dist
+      run: |
+        cd pack-dist
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add RP.zip
+        git commit -m "Update RP.zip from ${{ github.sha }}" || echo "No changes to commit"
+        git push origin pack-dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
