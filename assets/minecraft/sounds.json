@@ -1,6 +1,0 @@
-{ 
-    "boss.shroomjam_swarm": { "category": "master", "sounds": [ "custom/shroomjam_swarm" ] },
-    "boss.completion": { "category": "master", "sounds": [ "custom/completion" ] },
-    "boss.s_completion": { "category": "master", "sounds": [ "custom/s_completion" ] },
-    "boss.before_boss_loop": { "category": "master", "sounds": [ "custom/before_boss_loop" ] }
-}
