@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/lime_candle"
+        },
+        "cases": [
+            {"when": "donor_gilded_candle","model": {"type": "model","model": "item/custom/gilded_candles/donor_candle"}}
+        ]
+    }
+}

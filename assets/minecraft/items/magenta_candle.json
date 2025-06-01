@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/magenta_candle"
+        },
+        "cases": [
+            {"when": "mythic_gilded_candle","model": {"type": "model","model": "item/custom/gilded_candles/mythic_candle"}}
+        ]
+    }
+}
