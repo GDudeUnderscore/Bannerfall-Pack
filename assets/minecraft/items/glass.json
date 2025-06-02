@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "block/glass"
+        },
+        "cases": [
+            {"when": "bubble","model": {"type": "model","model": "item/custom/bubble"}}
+        ]
+    }
+}
