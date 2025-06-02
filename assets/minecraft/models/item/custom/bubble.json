@@ -1,6 +1,6 @@
 {
-	"parent": "item/handheld",
+	"parent": "block/cube_all",
 	"textures": {
-		"layer0": "item/custom/bubble"
+		"all": "item/custom/bubble"
 	}
 }
