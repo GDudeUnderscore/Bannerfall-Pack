@@ -29,7 +29,7 @@ jobs:
         COMMIT_ID=$(git rev-parse --short HEAD)
         ZIP_NAME="RP.zip"
         echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
-        zip -r "${ZIP_NAME}" .
+        zip -r "${ZIP_NAME}" . -x ".git/*" ".github/*"
 
     - name: Upload ZIP artifact
       uses: actions/upload-artifact@v4
