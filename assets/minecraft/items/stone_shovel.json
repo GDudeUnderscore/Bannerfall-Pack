@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "flint_spear","model": {"type": "model","model": "item/custom/flint_spear"}},
-            {"when": "venomspire","model": {"type": "model","model": "item/custom/venomspire"}}
+            {"when": "venomspire","model": {"type": "model","model": "item/custom/venomspire"}},
+            {"when": "veinsplitter","model": {"type": "model","model": "item/custom/veinsplitter"}}
         ]
     }
 }
