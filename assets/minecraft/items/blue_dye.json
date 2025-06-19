@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/blue_dye"
+        },
+        "cases": [
+            {"when": "capsule_top","model": {"type": "model","model": "item/custom/capsule/capsule_top"}},
+            {"when": "capsule_bottom","model": {"type": "model","model": "item/custom/capsule/capsule_bottom"}}
+        ]
+    }
+}
