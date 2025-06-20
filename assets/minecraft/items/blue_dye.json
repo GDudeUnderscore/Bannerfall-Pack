@@ -7,8 +7,14 @@
             "model": "item/blue_dye"
         },
         "cases": [
-            {"when": "capsule_top","model": {"type": "model","model": "item/custom/capsule/capsule_top"}},
-            {"when": "capsule_bottom","model": {"type": "model","model": "item/custom/capsule/capsule_bottom"}}
+            {"when": "common_capsule_top","model": {"type": "model","model": "item/custom/capsule/common/capsule_top"}},
+            {"when": "common_capsule_bottom","model": {"type": "model","model": "item/custom/capsule/common/capsule_bottom"}},
+
+            {"when": "rare_capsule_top","model": {"type": "model","model": "item/custom/capsule/rare/capsule_top"}},
+            {"when": "rare_capsule_bottom","model": {"type": "model","model": "item/custom/capsule/rare/capsule_bottom"}},
+
+            {"when": "legendary_capsule_top","model": {"type": "model","model": "item/custom/capsule/legendary/capsule_top"}},
+            {"when": "legendary_capsule_bottom","model": {"type": "model","model": "item/custom/capsule/legendary/capsule_bottom"}}
         ]
     }
 }

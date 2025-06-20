@@ -7,7 +7,9 @@
             "model": "item/heart_of_the_sea"
         },
         "cases": [
-            {"when": "capsule","model": {"type": "model","model": "item/custom/capsule/capsule"}}
+            {"when": "common_capsule","model": {"type": "model","model": "item/custom/capsule/common/capsule"}},
+            {"when": "rare_capsule","model": {"type": "model","model": "item/custom/capsule/rare/capsule"}},
+            {"when": "legendary_capsule","model": {"type": "model","model": "item/custom/capsule/legendary/capsule"}}
         ]
     }
 }
