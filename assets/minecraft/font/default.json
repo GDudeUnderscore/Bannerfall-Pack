@@ -13,7 +13,7 @@
         {
             "type": "bitmap",
             "file": "emoji/gold.png",
-            "ascent": 10,
+            "ascent": 0,
             "height": 10,
             "chars": [
                 "⛁"
