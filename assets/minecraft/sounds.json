@@ -1,6 +1,7 @@
 { 
-    "boss.shroomjam_swarm": { "category": "master", "sounds": [ "custom/shroomjam_swarm" ] },
-    "boss.completion": { "category": "master", "sounds": [ "custom/completion" ] },
-    "boss.s_completion": { "category": "master", "sounds": [ "custom/s_completion" ] },
-    "boss.before_boss_loop": { "category": "master", "sounds": [ "custom/before_boss_loop" ] }
+    "music.shroomjam_swarm": { "category": "record", "sounds": [ "music/shroomjam_swarm" ] },
+    "music.egg_hunt": { "category": "record", "sounds": [ "music/egg_hunt" ] },
+    "boss.boss_completion": { "category": "record", "sounds": [ "sounds/completion" ] },
+    "boss.boss_s_completion": { "category": "record", "sounds": [ "sounds/s_completion" ] },
+    "boss.before_boss_loop": { "category": "record", "sounds": [ "sounds/before_boss_loop" ] }
 }
