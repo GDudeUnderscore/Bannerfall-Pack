@@ -16,11 +16,15 @@
             "type": "minecraft:range_dispatch",
 
             "entries": [
-                { "model": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_1"}, "cases": [{ "when": "flimsy_bow", "model": { "type": "model", "model": "item/custom/flimsy_bow/flimsy_bow_pulling_1" }}]}, "threshold": 0.65 },
-                { "model": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_2"}, "cases": [{ "when": "flimsy_bow", "model": { "type": "model", "model": "item/custom/flimsy_bow/flimsy_bow_pulling_2" }}]}, "threshold": 0.90 },
+                { "model": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_1"}, "cases": [
+                    { "when": "flimsy_bow", "model": { "type": "model", "model": "item/custom/flimsy_bow/flimsy_bow_pulling_1" }},
+                    { "when": "reinforced_bow", "model": { "type": "model", "model": "item/custom/reinforced_bow/reinforced_bow_pulling_1" }}
+                ]}, "threshold": 0.65 },
 
-                { "model": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_1"}, "cases": [{ "when": "reinforced_bow", "model": { "type": "model", "model": "item/custom/reinforced_bow/reinforced_bow_pulling_1" }}]}, "threshold": 0.65 },
-                { "model": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_2"}, "cases": [{ "when": "reinforced_bow", "model": { "type": "model", "model": "item/custom/reinforced_bow/reinforced_bow_pulling_2" }}]}, "threshold": 0.90 }
+                { "model": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_2"}, "cases": [
+                    { "when": "flimsy_bow", "model": { "type": "model", "model": "item/custom/flimsy_bow/flimsy_bow_pulling_2" }},
+                    { "when": "reinforced_bow", "model": { "type": "model", "model": "item/custom/reinforced_bow/reinforced_bow_pulling_2" }}
+                ]}, "threshold": 0.90 }
             ],
             
             "fallback": { "type": "select", "property": "custom_model_data", "fallback": { "type": "model", "model": "item/bow_pulling_0"},
