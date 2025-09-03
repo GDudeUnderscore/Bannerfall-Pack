@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_shovel"
+        },
+        "cases": [
+            {"when": "voidroot","model": {"type": "model","model": "item/custom/voidroot"}}
+        ]
+    }
+}
