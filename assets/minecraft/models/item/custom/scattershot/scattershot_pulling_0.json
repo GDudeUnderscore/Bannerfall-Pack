@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "minecraft:item/custom/scattershot/scattershot_pulling_0"
+  }
+}
