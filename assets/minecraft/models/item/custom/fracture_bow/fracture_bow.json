@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/custom/scattershot/scattershot"
+        "layer0": "item/custom/fracture_bow/fracture_bow"
     },
     "display": {
         "thirdperson_righthand": {
