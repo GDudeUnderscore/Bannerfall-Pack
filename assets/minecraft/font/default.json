@@ -28,6 +28,16 @@
             "chars": [
                 "♦"
             ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "emoji/raw_hyperium.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "♢"
+            ]
         }
 
     ]
