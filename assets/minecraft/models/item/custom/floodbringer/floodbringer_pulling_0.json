@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "item/custom/floodbringer/floodbringer_pulling_0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "item/custom/twilight/twilight_pulling_1"
+  }
+}
