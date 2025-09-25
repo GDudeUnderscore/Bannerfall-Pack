@@ -12,7 +12,9 @@
                 { "when": "keen_eye", "model": { "type": "model", "model": "item/custom/keen_eye/keen_eye" }},
                 { "when": "chronoweaver", "model": { "type": "model", "model": "item/custom/chronoweaver/chronoweaver" }},
                 { "when": "fracture_bow", "model": { "type": "model", "model": "item/custom/fracture_bow/fracture_bow" }},
-                { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame" }}
+                { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame" }},
+                { "when": "tempest", "model": { "type": "model", "model": "item/custom/tempest/tempest" }},
+                { "when": "leviathan", "model": { "type": "model", "model": "item/custom/leviathan/leviathan" }}
             ]
         },
 
@@ -26,7 +28,9 @@
                     { "when": "keen_eye", "model": { "type": "model", "model": "item/custom/keen_eye/keen_eye_pulling_1" }},
                     { "when": "chronoweaver", "model": { "type": "model", "model": "item/custom/chronoweaver/chronoweaver_pulling_1" }},
                     { "when": "fracture_bow", "model": { "type": "model", "model": "item/custom/fracture_bow/fracture_bow_pulling_1" }},
-                    { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame_pulling_1" }}
+                    { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame_pulling_1" }},
+                    { "when": "tempest", "model": { "type": "model", "model": "item/custom/tempest/tempest_pulling_1" }},
+                    { "when": "leviathan", "model": { "type": "model", "model": "item/custom/leviathan/leviathan_pulling_1" }}
 
                 ]}, "threshold": 0.65 },
 
@@ -36,7 +40,9 @@
                     { "when": "keen_eye", "model": { "type": "model", "model": "item/custom/keen_eye/keen_eye_pulling_2" }},
                     { "when": "chronoweaver", "model": { "type": "model", "model": "item/custom/chronoweaver/chronoweaver_pulling_2" }},
                     { "when": "fracture_bow", "model": { "type": "model", "model": "item/custom/fracture_bow/fracture_bow_pulling_2" }},
-                    { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame_pulling_2" }}
+                    { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame_pulling_2" }},
+                    { "when": "tempest", "model": { "type": "model", "model": "item/custom/tempest/tempest_pulling_2" }},
+                    { "when": "leviathan", "model": { "type": "model", "model": "item/custom/leviathan/leviathan_pulling_2" }}
                 ]}, "threshold": 0.90 }
             ],
             
@@ -47,7 +53,9 @@
                 { "when": "keen_eye", "model": { "type": "model", "model": "item/custom/keen_eye/keen_eye_pulling_0" }},
                 { "when": "chronoweaver", "model": { "type": "model", "model": "item/custom/chronoweaver/chronoweaver_pulling_0" }},
                 { "when": "fracture_bow", "model": { "type": "model", "model": "item/custom/fracture_bow/fracture_bow_pulling_0" }},
-                { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame_pulling_0" }}
+                { "when": "hexflame", "model": { "type": "model", "model": "item/custom/hexflame/hexflame_pulling_0" }},
+                { "when": "tempest", "model": { "type": "model", "model": "item/custom/tempest/tempest_pulling_0" }},
+                { "when": "leviathan", "model": { "type": "model", "model": "item/custom/leviathan/leviathan_pulling_0" }}
             ]},
 
             "property": "minecraft:use_duration",
