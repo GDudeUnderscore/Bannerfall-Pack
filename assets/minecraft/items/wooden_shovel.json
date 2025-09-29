@@ -9,7 +9,9 @@
         "cases": [
             {"when": "divinity","model": {"type": "model","model": "item/custom/divinity"}},
             {"when": "fangspear","model": {"type": "model","model": "item/custom/fangspear"}},
-            {"when": "nautilus","model": {"type": "model","model": "item/custom/nautilus"}}
+            {"when": "nautilus","model": {"type": "model","model": "item/custom/nautilus"}},
+            {"when": "verdant_scepter","model": {"type": "model","model": "item/custom/verdant_scepter"}},
+            {"when": "frostpetal","model": {"type": "model","model": "item/custom/frostpetal"}}
         ]
     }
 }

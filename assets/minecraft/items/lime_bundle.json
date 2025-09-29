@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/lime_bundle"
+        },
+        "cases": [
+            {"when": "common_gold_pouch","model": {"type": "model","model": "item/custom/common_gold_pouch"}}
+        ]
+    }
+}

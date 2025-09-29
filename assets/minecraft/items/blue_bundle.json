@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/blue_bundle"
+        },
+        "cases": [
+            {"when": "rare_gold_pouch","model": {"type": "model","model": "item/custom/rare_gold_pouch"}}
+        ]
+    }
+}

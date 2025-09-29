@@ -9,7 +9,8 @@
         "cases": [
             {"when": "ragnarok","model": {"type": "model","model": "item/custom/ragnarok"}},
             {"when": "icebreaker","model": {"type": "model","model": "item/custom/icebreaker"}},
-            {"when": "crystalline","model": {"type": "model","model": "item/custom/crystalline"}}
+            {"when": "crystalline","model": {"type": "model","model": "item/custom/crystalline"}},
+            {"when": "hookfang","model": {"type": "model","model": "item/custom/hookfang"}}
         ]
     }
 }
