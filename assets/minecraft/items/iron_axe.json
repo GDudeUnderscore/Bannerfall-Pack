@@ -7,7 +7,9 @@
             "model": "item/iron_axe"
         },
         "cases": [
-            {"when": "ragnarok","model": {"type": "model","model": "item/custom/ragnarok"}}
+            {"when": "ragnarok","model": {"type": "model","model": "item/custom/ragnarok"}},
+            {"when": "icebreaker","model": {"type": "model","model": "item/custom/icebreaker"}},
+            {"when": "crystalline","model": {"type": "model","model": "item/custom/crystalline"}}
         ]
     }
 }

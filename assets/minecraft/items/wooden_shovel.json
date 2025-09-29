@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "divinity","model": {"type": "model","model": "item/custom/divinity"}},
-            {"when": "fangspear","model": {"type": "model","model": "item/custom/fangspear"}}
+            {"when": "fangspear","model": {"type": "model","model": "item/custom/fangspear"}},
+            {"when": "nautilus","model": {"type": "model","model": "item/custom/nautilus"}}
         ]
     }
 }

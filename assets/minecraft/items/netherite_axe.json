@@ -1,0 +1,14 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_axe"
+        },
+        "cases": [
+            {"when": "talos","model": {"type": "model","model": "item/custom/talos"}},
+            {"when": "everflame","model": {"type": "model","model": "item/custom/everflame"}}
+        ]
+    }
+}

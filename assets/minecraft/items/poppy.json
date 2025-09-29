@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/poppy"
+        },
+        "cases": [
+            {"when": "thornbloom","model": {"type": "model","model": "item/custom/thornbloom"}}
+        ]
+    }
+}
