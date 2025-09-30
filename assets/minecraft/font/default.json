@@ -38,7 +38,16 @@
             "chars": [
                 "♢"
             ]
-        }
+        },
 
+        {
+            "type": "bitmap",
+            "file": "emoji/player.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "👤"
+            ]
+        }
     ]
 }
