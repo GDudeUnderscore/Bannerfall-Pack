@@ -3,5 +3,8 @@
     "music.egg_hunt": { "category": "record", "sounds": [ "music/egg_hunt" ] },
     "music.before_boss_loop": { "category": "record", "sounds": [ "sounds/before_boss_loop" ] },
     "music.boss_completion": { "category": "record", "sounds": [ "sounds/completion" ] },
-    "music.boss_s_completion": { "category": "record", "sounds": [ "sounds/s_completion" ] }
+    "music.boss_s_completion": { "category": "record", "sounds": [ "sounds/s_completion" ] },
+    "random.hi": { "category": "record", "sounds": [ "sounds/hi" ] },
+    "random.FAHH": { "category": "record", "sounds": [ "sounds/FAHH" ] },
+    "random.i_got_this": { "category": "record", "sounds": [ "sounds/i_got_this" ] }
 }
