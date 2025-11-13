@@ -1,11 +1,11 @@
-{ 
-    "music.shroomjam_swarm": { "category": "record", "sounds": [ "music/shroomjam_swarm" ] },
-    "music.egg_hunt": { "category": "record", "sounds": [ "music/egg_hunt" ] },
-    "music.cafe": { "category": "record", "sounds": [ "music/cafe" ] },
-    "music.before_boss_loop": { "category": "record", "sounds": [ "sounds/before_boss_loop" ] },
-    "music.boss_completion": { "category": "record", "sounds": [ "sounds/completion" ] },
-    "music.boss_s_completion": { "category": "record", "sounds": [ "sounds/s_completion" ] },
-    "random.hi": { "category": "record", "sounds": [ "sounds/hi" ] },
-    "random.fahh": { "category": "record", "sounds": [ "sounds/fahh" ] },
-    "random.i_got_this": { "category": "record", "sounds": [ "sounds/i_got_this" ] }
+{
+    "music.shroomjam_swarm":   { "sounds": ["bannerfall:music/shroomjam_swarm"],   "category": "record" },
+    "music.egg_hunt":          { "sounds": ["bannerfall:music/egg_hunt"],          "category": "record" },
+    "music.cafe":              { "sounds": ["bannerfall:music/cafe"],              "category": "record" },
+    "music.before_boss_loop":  { "sounds": ["bannerfall:sounds/before_boss_loop"], "category": "record" },
+    "music.boss_completion":   { "sounds": ["bannerfall:sounds/completion"],       "category": "record" },
+    "music.boss_s_completion": { "sounds": ["bannerfall:sounds/s_completion"],     "category": "record" },
+    "random.hi":               { "sounds": ["bannerfall:sounds/hi"],               "category": "record" },
+    "random.fahh":             { "sounds": ["bannerfall:sounds/fahh"],             "category": "record" },
+    "random.i_got_this":       { "sounds": ["bannerfall:sounds/i_got_this"],       "category": "record" }
 }
