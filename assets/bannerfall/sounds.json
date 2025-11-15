@@ -2,7 +2,7 @@
     "music.egg_hunt":              { "sounds": ["bannerfall:egg_hunt"]},
 
     "music.cafe.acid_trumpet":     { "sounds": ["bannerfall:cafe/acid_trumpet"]},
-    "music.cafe.monesi_lotus":     { "sounds": ["bannerfall:cafe/monesi_lotus"]},
+    "music.cafe.moseni_lotus":     { "sounds": ["bannerfall:cafe/moseni_lotus"]},
     "music.cafe.coiffure_clips":   { "sounds": ["bannerfall:cafe/coiffure_clips"]},
     "sound.cafe.static":           { "sounds": ["bannerfall:cafe/static"]},
 
