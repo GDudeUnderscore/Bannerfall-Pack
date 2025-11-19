@@ -1,17 +1,18 @@
 {
-    "music.egg_hunt":              { "sounds": ["bannerfall:egg_hunt"]},
+    "music.egg_hunt":                   { "sounds": ["bannerfall:egg_hunt"]},
 
-    "music.cafe.acid_trumpet":     { "sounds": ["bannerfall:cafe/acid_trumpet"]},
-    "music.cafe.moseni_lotus":     { "sounds": ["bannerfall:cafe/moseni_lotus"]},
-    "music.cafe.coiffure_clips":   { "sounds": ["bannerfall:cafe/coiffure_clips"]},
-    "sound.cafe.static":           { "sounds": ["bannerfall:cafe/static"]},
+    "music.cafe.acid_trumpet":          { "sounds": ["bannerfall:cafe/acid_trumpet"]},
+    "music.cafe.moseni_lotus":          { "sounds": ["bannerfall:cafe/moseni_lotus"]},
+    "music.cafe.coiffure_clips":        { "sounds": ["bannerfall:cafe/coiffure_clips"]},
+    "music.cafe.goin_back_to_kansas":   { "sounds": ["bannerfall:cafe/goin_back_to_kansas"]},
+    "sound.cafe.static":                { "sounds": ["bannerfall:cafe/static"]},
 
-    "music.boss.shroomjam_swarm":  { "sounds": ["bannerfall:boss/shroomjam_swarm/shroomjam_swarm"]},
-    "music.boss.before_boss_loop": { "sounds": ["bannerfall:boss/before_boss_loop"]},
-    "music.boss.completion":       { "sounds": ["bannerfall:boss/completion"]},
-    "music.boss.s_completion":     { "sounds": ["bannerfall:boss/s_completion"]},
+    "music.boss.shroomjam_swarm":       { "sounds": ["bannerfall:boss/shroomjam_swarm/shroomjam_swarm"]},
+    "music.boss.before_boss_loop":      { "sounds": ["bannerfall:boss/before_boss_loop"]},
+    "music.boss.completion":            { "sounds": ["bannerfall:boss/completion"]},
+    "music.boss.s_completion":          { "sounds": ["bannerfall:boss/s_completion"]},
 
-    "random.hi":                   { "sounds": ["bannerfall:random/hi"]},
-    "random.fahh":                 { "sounds": ["bannerfall:random/fahh"]},
-    "random.i_got_this":           { "sounds": ["bannerfall:random/i_got_this"]}
+    "random.hi":                        { "sounds": ["bannerfall:random/hi"]},
+    "random.fahh":                      { "sounds": ["bannerfall:random/fahh"]},
+    "random.i_got_this":                { "sounds": ["bannerfall:random/i_got_this"]}
 }
