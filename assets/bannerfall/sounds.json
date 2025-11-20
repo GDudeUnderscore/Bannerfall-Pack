@@ -5,6 +5,7 @@
     "music.cafe.moseni_lotus":          { "sounds": ["bannerfall:cafe/moseni_lotus"]},
     "music.cafe.coiffure_clips":        { "sounds": ["bannerfall:cafe/coiffure_clips"]},
     "music.cafe.goin_back_to_kansas":   { "sounds": ["bannerfall:cafe/goin_back_to_kansas"]},
+    "music.cafe.flower_shop"        :   { "sounds": ["bannerfall:cafe/flower_shop"]},
     "sound.cafe.static":                { "sounds": ["bannerfall:cafe/static"]},
 
     "music.boss.shroomjam_swarm":       { "sounds": ["bannerfall:boss/shroomjam_swarm/shroomjam_swarm"]},
