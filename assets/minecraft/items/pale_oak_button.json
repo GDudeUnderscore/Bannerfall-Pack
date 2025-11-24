@@ -2,6 +2,10 @@
     "model": {
         "type": "select",
         "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "block/pale_oak_button"
+        },
         "cases": [
             {"when": "bamboo_hat","model": {"type": "model","model": "hats/bamboo_hat"}},
             {"when": "beanie","model": {"type": "model","model": "hats/beanie"}},
