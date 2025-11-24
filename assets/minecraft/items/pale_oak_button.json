@@ -3,8 +3,7 @@
         "type": "select",
         "property": "custom_model_data",
         "fallback": {
-            "type": "model",
-            "model": "item/pale_oak_button"
+            "parent": "minecraft:block/pale_oak_button_inventory"
         },
         "cases": [
             {"when": "bamboo_hat","model": {"type": "model","model": "hats/bamboo_hat"}},
