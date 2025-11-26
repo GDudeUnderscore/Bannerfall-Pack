@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "item/custom/quick_shooter/quick_shooter_pulling_0"
+  }
+}
