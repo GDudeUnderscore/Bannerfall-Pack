@@ -1,21 +1,21 @@
 {
-    "music.egg_hunt":                   { "sounds": [{ "name": "bannerfall:egg_hunt",                               "stream": false }]},
+    "music.egg_hunt":                   { "sounds": [{ "name": "bannerfall:egg_hunt",                               "stream": true }]},
 
-    "music.cafe.acid_trumpet":          { "sounds": [{ "name": "bannerfall:cafe/acid_trumpet",                      "stream": false }]},
-    "music.cafe.moseni_lotus":          { "sounds": [{ "name": "bannerfall:cafe/moseni_lotus",                      "stream": false }]},
-    "music.cafe.coiffure_clips":        { "sounds": [{ "name": "bannerfall:cafe/coiffure_clips",                    "stream": false }]},
-    "music.cafe.goin_back_to_kansas":   { "sounds": [{ "name": "bannerfall:cafe/goin_back_to_kansas",               "stream": false }]},
-    "music.cafe.flower_shop":           { "sounds": [{ "name": "bannerfall:cafe/flower_shop",                       "stream": false }]},
-    "music.cafe.close_your_eyes":       { "sounds": [{ "name": "bannerfall:cafe/close_your_eyes",                   "stream": false }]},
-    "music.cafe.hip_shop":              { "sounds": [{ "name": "bannerfall:cafe/hip_shop",                          "stream": false }]},
-    "sound.cafe.static":                { "sounds": [{ "name": "bannerfall:cafe/static",                            "stream": false }]},
+    "music.cafe.acid_trumpet":          { "sounds": [{ "name": "bannerfall:cafe/acid_trumpet",                      "stream": true }]},
+    "music.cafe.moseni_lotus":          { "sounds": [{ "name": "bannerfall:cafe/moseni_lotus",                      "stream": true }]},
+    "music.cafe.coiffure_clips":        { "sounds": [{ "name": "bannerfall:cafe/coiffure_clips",                    "stream": true }]},
+    "music.cafe.goin_back_to_kansas":   { "sounds": [{ "name": "bannerfall:cafe/goin_back_to_kansas",               "stream": true }]},
+    "music.cafe.flower_shop":           { "sounds": [{ "name": "bannerfall:cafe/flower_shop",                       "stream": true }]},
+    "music.cafe.close_your_eyes":       { "sounds": [{ "name": "bannerfall:cafe/close_your_eyes",                   "stream": true }]},
+    "music.cafe.hip_shop":              { "sounds": [{ "name": "bannerfall:cafe/hip_shop",                          "stream": true }]},
+    "sound.cafe.static":                { "sounds": [{ "name": "bannerfall:cafe/static",                            "stream": true }]},
 
-    "music.boss.shroomjam_swarm":       { "sounds": [{ "name": "bannerfall:boss/shroomjam_swarm/shroomjam_swarm",   "stream": false }]},
-    "music.boss.before_boss_loop":      { "sounds": [{ "name": "bannerfall:boss/before_boss_loop",                  "stream": false }]},
-    "music.boss.completion":            { "sounds": [{ "name": "bannerfall:boss/completion",                        "stream": false }]},
-    "music.boss.s_completion":          { "sounds": [{ "name": "bannerfall:boss/s_completion",                      "stream": false }]},
+    "music.boss.shroomjam_swarm":       { "sounds": [{ "name": "bannerfall:boss/shroomjam_swarm/shroomjam_swarm",   "stream": true }]},
+    "music.boss.before_boss_loop":      { "sounds": [{ "name": "bannerfall:boss/before_boss_loop",                  "stream": true }]},
+    "music.boss.completion":            { "sounds": [{ "name": "bannerfall:boss/completion",                        "stream": true }]},
+    "music.boss.s_completion":          { "sounds": [{ "name": "bannerfall:boss/s_completion",                      "stream": true }]},
 
-    "random.hi":                        { "sounds": [{ "name": "bannerfall:random/hi",                              "stream": false }]},
-    "random.fahh":                      { "sounds": [{ "name": "bannerfall:random/fahh",                            "stream": false }]},
-    "random.i_got_this":                { "sounds": [{ "name": "bannerfall:random/i_got_this",                      "stream": false }]}
+    "random.hi":                        { "sounds": [{ "name": "bannerfall:random/hi",                              "stream": true }]},
+    "random.fahh":                      { "sounds": [{ "name": "bannerfall:random/fahh",                            "stream": true }]},
+    "random.i_got_this":                { "sounds": [{ "name": "bannerfall:random/i_got_this",                      "stream": true }]}
 }

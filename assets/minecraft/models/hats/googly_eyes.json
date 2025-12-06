@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "googly_eyes",
-		"particle": "googly_eyes"
+		"0": "item/hats/googly_eyes",
+		"particle": "item/hats/googly_eyes"
 	},
 	"elements": [
 		{
