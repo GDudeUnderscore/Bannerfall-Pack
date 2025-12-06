@@ -1,0 +1,81 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "googly_eyes",
+		"particle": "googly_eyes"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 3],
+			"to": [9, 4, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 4.25]},
+			"faces": {
+				"north": {"uv": [2, 8, 3, 12], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"south": {"uv": [8, 2, 9, 6], "texture": "#0"},
+				"west": {"uv": [0, 4, 4, 8], "texture": "#0"},
+				"up": {"uv": [4, 12, 3, 8], "texture": "#0"},
+				"down": {"uv": [5, 8, 4, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 0, 9],
+			"to": [9, 4, 13],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7, 0, 9.75]},
+			"faces": {
+				"north": {"uv": [5, 8, 6, 12], "texture": "#0"},
+				"east": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"south": {"uv": [6, 8, 7, 12], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+				"up": {"uv": [9, 10, 8, 6], "texture": "#0"},
+				"down": {"uv": [8, 8, 7, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 0.25, 10.5],
+			"to": [9.5, 2.5, 12.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 0.25, 12.75]},
+			"faces": {
+				"north": {"uv": [9, 8, 10, 10], "texture": "#0"},
+				"east": {"uv": [8, 0, 10, 2], "texture": "#0"},
+				"south": {"uv": [9, 6, 10, 8], "texture": "#0"},
+				"west": {"uv": [0, 8, 2, 10], "texture": "#0"},
+				"up": {"uv": [1, 12, 0, 10], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 0, 10, 2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [9, 0.25, 3.25],
+			"to": [9.5, 2.5, 5.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 0.25, 5.25]},
+			"faces": {
+				"north": {"uv": [10, 6, 11, 8], "texture": "#0"},
+				"east": {"uv": [9, 4, 11, 6], "texture": "#0"},
+				"south": {"uv": [1, 10, 2, 12], "texture": "#0"},
+				"west": {"uv": [9, 2, 11, 4], "texture": "#0"},
+				"up": {"uv": [9, 12, 8, 10], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 8, 10, 10], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-23, 90, 90],
+			"translation": [-6, 6.25, 20.25]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 9, -6.5],
+			"scale": [1, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "googly_eyes",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

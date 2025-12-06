@@ -45,7 +45,8 @@
             {"when": "snorkel","model": {"type": "model","model": "hats/snorkel"}},
             {"when": "sunglasses","model": {"type": "model","model": "hats/sunglasses"}},
             {"when": "top_hat","model": {"type": "model","model": "hats/top_hat"}},
-            {"when": "witch_hat","model": {"type": "model","model": "hats/witch_hat"}}
+            {"when": "witch_hat","model": {"type": "model","model": "hats/witch_hat"}},
+            {"when": "googly_eyes","model": {"type": "model","model": "hats/googly_eyes"}}
         ]
     }
 }

@@ -1,21 +1,21 @@
 {
-    "music.egg_hunt":                   { "sounds": ["bannerfall:egg_hunt"]},
+    "music.egg_hunt":                   { "sounds": [{ "name": "bannerfall:egg_hunt",                               "stream": false }]},
 
-    "music.cafe.acid_trumpet":          { "sounds": ["bannerfall:cafe/acid_trumpet"]},
-    "music.cafe.moseni_lotus":          { "sounds": ["bannerfall:cafe/moseni_lotus"]},
-    "music.cafe.coiffure_clips":        { "sounds": ["bannerfall:cafe/coiffure_clips"]},
-    "music.cafe.goin_back_to_kansas":   { "sounds": ["bannerfall:cafe/goin_back_to_kansas"]},
-    "music.cafe.flower_shop":           { "sounds": ["bannerfall:cafe/flower_shop"]},
-    "music.cafe.close_your_eyes":       { "sounds": ["bannerfall:cafe/close_your_eyes"]},
-    "music.cafe.hip_shop":              { "sounds": ["bannerfall:cafe/hip_shop"]},
-    "sound.cafe.static":                { "sounds": ["bannerfall:cafe/static"]},
+    "music.cafe.acid_trumpet":          { "sounds": [{ "name": "bannerfall:cafe/acid_trumpet",                      "stream": false }]},
+    "music.cafe.moseni_lotus":          { "sounds": [{ "name": "bannerfall:cafe/moseni_lotus",                      "stream": false }]},
+    "music.cafe.coiffure_clips":        { "sounds": [{ "name": "bannerfall:cafe/coiffure_clips",                    "stream": false }]},
+    "music.cafe.goin_back_to_kansas":   { "sounds": [{ "name": "bannerfall:cafe/goin_back_to_kansas",               "stream": false }]},
+    "music.cafe.flower_shop":           { "sounds": [{ "name": "bannerfall:cafe/flower_shop",                       "stream": false }]},
+    "music.cafe.close_your_eyes":       { "sounds": [{ "name": "bannerfall:cafe/close_your_eyes",                   "stream": false }]},
+    "music.cafe.hip_shop":              { "sounds": [{ "name": "bannerfall:cafe/hip_shop",                          "stream": false }]},
+    "sound.cafe.static":                { "sounds": [{ "name": "bannerfall:cafe/static",                            "stream": false }]},
 
-    "music.boss.shroomjam_swarm":       { "sounds": ["bannerfall:boss/shroomjam_swarm/shroomjam_swarm"]},
-    "music.boss.before_boss_loop":      { "sounds": ["bannerfall:boss/before_boss_loop"]},
-    "music.boss.completion":            { "sounds": ["bannerfall:boss/completion"]},
-    "music.boss.s_completion":          { "sounds": ["bannerfall:boss/s_completion"]},
+    "music.boss.shroomjam_swarm":       { "sounds": [{ "name": "bannerfall:boss/shroomjam_swarm/shroomjam_swarm",   "stream": false }]},
+    "music.boss.before_boss_loop":      { "sounds": [{ "name": "bannerfall:boss/before_boss_loop",                  "stream": false }]},
+    "music.boss.completion":            { "sounds": [{ "name": "bannerfall:boss/completion",                        "stream": false }]},
+    "music.boss.s_completion":          { "sounds": [{ "name": "bannerfall:boss/s_completion",                      "stream": false }]},
 
-    "random.hi":                        { "sounds": ["bannerfall:random/hi"]},
-    "random.fahh":                      { "sounds": ["bannerfall:random/fahh"]},
-    "random.i_got_this":                { "sounds": ["bannerfall:random/i_got_this"]}
+    "random.hi":                        { "sounds": [{ "name": "bannerfall:random/hi",                              "stream": false }]},
+    "random.fahh":                      { "sounds": [{ "name": "bannerfall:random/fahh",                            "stream": false }]},
+    "random.i_got_this":                { "sounds": [{ "name": "bannerfall:random/i_got_this",                      "stream": false }]}
 }
