@@ -2,8 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/hats/googly_eyes",
-		"particle": "item/hats/googly_eyes"
+		"1": "item/hats/googly_eyes"
 	},
 	"elements": [
 		{
@@ -60,6 +59,11 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [23, -120, 0],
+			"translation": [1, 6.5, 0],
+			"scale": [1.4, 1.4, 1.4]
+		},
 		"head": {
 			"rotation": [0, 90, 0],
 			"translation": [-0.75, 6, -7],
