@@ -9,7 +9,9 @@
         "cases": [
             {"when": "mythril_greataxe","model": {"type": "model","model": "item/custom/mythril_greataxe"}},
             {"when": "fractalyte","model": {"type": "model","model": "item/custom/fractalyte"}},
-            {"when": "skull_crusher","model": {"type": "model","model": "item/custom/skull_crusher"}}
+            {"when": "skull_crusher","model": {"type": "model","model": "item/custom/skull_crusher"}},
+            {"when": "fimbulwinter","model": {"type": "model","model": "item/custom/fimbulwinter"}},
+            {"when": "glacier","model": {"type": "model","model": "item/custom/glacier"}}
         ]
     }
 }

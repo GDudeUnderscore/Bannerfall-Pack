@@ -19,7 +19,9 @@
                 { "when": "floodbringer", "model": { "type": "model", "model": "item/custom/floodbringer/floodbringer" }},
                 { "when": "twilight", "model": { "type": "model", "model": "item/custom/twilight/twilight" }},
                 { "when": "grapple_bow", "model": { "type": "model", "model": "item/custom/grapple_bow/grapple_bow" }},
-                { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter" }}
+                { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter" }},
+                { "when": "shardstrike", "model": { "type": "model", "model": "item/custom/shardstrike/shardstrike" }},
+                { "when": "frostburst_bow", "model": { "type": "model", "model": "item/custom/frostburst_bow/frostburst_bow" }}
             ]
         },
 
@@ -40,7 +42,9 @@
                     { "when": "floodbringer", "model": { "type": "model", "model": "item/custom/floodbringer/floodbringer_pulling_1" }},
                     { "when": "twilight", "model": { "type": "model", "model": "item/custom/twilight/twilight_pulling_1" }},
                     { "when": "grapple_bow", "model": { "type": "model", "model": "item/custom/grapple_bow/grapple_bow_pulling_1" }},
-                    { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter_pulling_1" }}
+                    { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter_pulling_1" }},
+                    { "when": "shardstrike", "model": { "type": "model", "model": "item/custom/shardstrike/shardstrike_pulling_1" }},
+                    { "when": "frostburst_bow", "model": { "type": "model", "model": "item/custom/frostburst_bow/frostburst_bow_pulling_1" }}
 
                 ]}, "threshold": 0.65 },
 
@@ -57,7 +61,9 @@
                     { "when": "floodbringer", "model": { "type": "model", "model": "item/custom/floodbringer/floodbringer_pulling_2" }},
                     { "when": "twilight", "model": { "type": "model", "model": "item/custom/twilight/twilight_pulling_2" }},
                     { "when": "grapple_bow", "model": { "type": "model", "model": "item/custom/grapple_bow/grapple_bow_pulling_2" }},
-                    { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter_pulling_2" }}
+                    { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter_pulling_2" }},
+                    { "when": "shardstrike", "model": { "type": "model", "model": "item/custom/shardstrike/shardstrike_pulling_2" }},
+                    { "when": "frostburst_bow", "model": { "type": "model", "model": "item/custom/frostburst_bow/frostburst_bow_pulling_2" }}
 
                 ]}, "threshold": 0.90 }
             ],
@@ -76,7 +82,9 @@
                 { "when": "floodbringer", "model": { "type": "model", "model": "item/custom/floodbringer/floodbringer_pulling_0" }},
                 { "when": "twilight", "model": { "type": "model", "model": "item/custom/twilight/twilight_pulling_0" }},
                 { "when": "grapple_bow", "model": { "type": "model", "model": "item/custom/grapple_bow/grapple_bow_pulling_0" }},
-                { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter_pulling_0" }}
+                { "when": "quick_shooter", "model": { "type": "model", "model": "item/custom/quick_shooter/quick_shooter_pulling_0" }},
+                { "when": "shardstrike", "model": { "type": "model", "model": "item/custom/shardstrike/shardstrike_pulling_0" }},
+                { "when": "frostburst_bow", "model": { "type": "model", "model": "item/custom/frostburst_bow/frostburst_bow_pulling_0" }}
 
             ]},
 

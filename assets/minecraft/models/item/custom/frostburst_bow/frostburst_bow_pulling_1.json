@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "minecraft:item/custom/frostburst_bow/frostburst_bow_pulling_1"
+  }
+}

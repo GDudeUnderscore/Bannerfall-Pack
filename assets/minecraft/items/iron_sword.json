@@ -11,7 +11,8 @@
             {"when": "steel_sword","model": {"type": "model","model": "item/custom/steel_sword"}},
             {"when": "flaming_dagger","model": {"type": "model","model": "item/custom/flaming_dagger"}},
             {"when": "icicle","model": {"type": "model","model": "item/custom/icicle"}},
-            {"when": "swift_katana","model": {"type": "model","model": "item/custom/swift_katana"}}
+            {"when": "swift_katana","model": {"type": "model","model": "item/custom/swift_katana"}},
+            {"when": "crystal_seekers","model": {"type": "model","model": "item/custom/crystal_seekers"}}
         ]
     }
 }
