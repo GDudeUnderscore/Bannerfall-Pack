@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/hats/bubble_hat",
+		"particle": "item/hats/bubble_hat"
+	},
+	"elements": [
+		{
+			"from": [3, 9.5, 3],
+			"to": [13, 19.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 7.5, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 10], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 5], "texture": "#0"},
+				"west": {"uv": [5, 5, 10, 10], "texture": "#0"},
+				"up": {"uv": [5, 15, 0, 10], "texture": "#0"},
+				"down": {"uv": [15, 0, 10, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0.4, -2.35, 0.4],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [22.5, 45, 0],
+			"translation": [0, -6, 0]
+		},
+		"head": {
+			"translation": [0, -10.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}

@@ -48,7 +48,8 @@
             {"when": "witch_hat","model": {"type": "model","model": "hats/witch_hat"}},
             {"when": "googly_eyes","model": {"type": "model","model": "hats/googly_eyes"}},
             {"when": "dodo","model": {"type": "model","model": "hats/dodo"}},
-            {"when": "unicorn_horn","model": {"type": "model","model": "hats/unicorn_horn"}}
+            {"when": "unicorn_horn","model": {"type": "model","model": "hats/unicorn_horn"}},
+            {"when": "bubble_hat","model": {"type": "model","model": "hats/bubble_hat"}}
         ]
     }
 }
