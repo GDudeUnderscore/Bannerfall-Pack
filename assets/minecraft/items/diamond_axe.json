@@ -11,7 +11,8 @@
             {"when": "fractalyte","model": {"type": "model","model": "item/custom/fractalyte"}},
             {"when": "skull_crusher","model": {"type": "model","model": "item/custom/skull_crusher"}},
             {"when": "fimbulwinter","model": {"type": "model","model": "item/custom/fimbulwinter"}},
-            {"when": "glacier","model": {"type": "model","model": "item/custom/glacier"}}
+            {"when": "glacier","model": {"type": "model","model": "item/custom/glacier"}},
+            {"when": "starmetal_axe","model": {"type": "model","model": "item/custom/starmetal_axe"}}
         ]
     }
 }
