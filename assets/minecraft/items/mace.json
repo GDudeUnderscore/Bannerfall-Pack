@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/mace"
+        },
+        "cases": [
+            {"when": "glacier","model": {"type": "model","model": "item/custom/glacier"}}
+        ]
+    }
+}
