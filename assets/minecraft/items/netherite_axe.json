@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "talos","model": {"type": "model","model": "item/custom/talos"}},
-            {"when": "everflame","model": {"type": "model","model": "item/custom/everflame"}}
+            {"when": "everflame","model": {"type": "model","model": "item/custom/everflame"}},
+            {"when": "gorehammer","model": {"type": "model","model": "item/custom/gorehammer"}}
         ]
     }
 }
