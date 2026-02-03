@@ -7,7 +7,7 @@
             "model": "item/stone_sword"
         },
         "cases": [
-            {"when": "sturdy_sword","model": {"type": "model","model": "item/custom/sturdy_sword"}},
+            {"when": "cobblestone_sword","model": {"type": "model","model": "item/custom/cobblestone_sword"}},
             {"when": "bloodrage","model": {"type": "model","model": "item/custom/bloodrage"}},
             {"when": "kelpy_cutlass","model": {"type": "model","model": "item/custom/kelpy_cutlass"}},
             {"when": "lament","model": {"type": "model","model": "item/custom/lament"}},
