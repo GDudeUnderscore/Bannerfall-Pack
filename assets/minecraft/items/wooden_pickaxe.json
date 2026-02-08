@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/wooden_pickaxe"
+        },
+        "cases": [
+            {"when": "wooden_pickaxe","model": {"type": "model","model": "item/custom/wooden_pickaxe"}}
+        ]
+    }
+}
