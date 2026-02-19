@@ -16,7 +16,7 @@
             "ascent": 9, 
             "height": 10,
             "chars": [
-                "0"
+                "\ue001\ue002\ue003\ue004\ue005\ue006\ue007\ue008\ue009\ue010"
             ]
         },
 
@@ -26,17 +26,17 @@
             "ascent": 9, 
             "height": 10,
             "chars": [
-                "⛁♢♦"
+                "⛁♢♦\ud004\ud005\ud006\ud007\ud008\ud009\ud010"
             ]
         },
 
         {
-            "type": "bitmap",
+            "type": "bitmap",   
             "file": "icons/misc.png",
             "ascent": 9, 
             "height": 10,
             "chars": [
-                "👤"
+                "👤\uc002\uc003\uc004\uc005\uc006\uc007\uc008\uc009\uc010"
             ]
         }
     ]
