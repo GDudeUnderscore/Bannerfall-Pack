@@ -23,7 +23,7 @@
 
         {
         "type": "bitmap",
-        "file": "emoji/player.png",
+        "file": "icons/player.png",
         "ascent": 9, "height": 10,
         "chars": ["👤"]
         }
