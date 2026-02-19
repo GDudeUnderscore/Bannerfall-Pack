@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/weapons/ranged/gilded_candles/elite/elite_candle",
-		"2": "item/custom/weapons/ranged/gilded_candles/elite/elite_candle_flame",
-		"particle": "item/custom/weapons/ranged/gilded_candles/elite/elite_candle"
+		"1": "item/custom/misc/gilded_candles/elite/elite_candle",
+		"2": "item/custom/misc/gilded_candles/elite/elite_candle_flame",
+		"particle": "item/custom/misc/gilded_candles/elite/elite_candle"
 	},
 	"elements": [
 		{
