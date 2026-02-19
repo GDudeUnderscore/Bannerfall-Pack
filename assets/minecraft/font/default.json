@@ -32,7 +32,7 @@
 
         {
             "type": "bitmap",
-            "file": "icons/player.png",
+            "file": "icons/misc.png",
             "ascent": 9, 
             "height": 10,
             "chars": [
