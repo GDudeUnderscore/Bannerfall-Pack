@@ -7,11 +7,9 @@
             "model": "item/wooden_shovel"
         },
         "cases": [
-            {"when": "divinity","model": {"type": "model","model": "item/custom/divinity"}},
-            {"when": "fangspear","model": {"type": "model","model": "item/custom/fangspear"}},
-            {"when": "nautilus","model": {"type": "model","model": "item/custom/nautilus"}},
-            {"when": "verdant_scepter","model": {"type": "model","model": "item/custom/verdant_scepter"}},
-            {"when": "frostpetal","model": {"type": "model","model": "item/custom/frostpetal"}}
+            {"when": "divinity","model": {"type": "model","model": "item/custom/weapons/melee/staffs/divinity"}},
+            {"when": "fangspear","model": {"type": "model","model": "item/custom/weapons/melee/spears/fangspear"}},
+            {"when": "frostpetal","model": {"type": "model","model": "item/custom/weapons/melee/staffs/frostpetal"}}
         ]
     }
 }

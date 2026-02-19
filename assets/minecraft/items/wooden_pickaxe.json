@@ -7,7 +7,7 @@
             "model": "item/wooden_pickaxe"
         },
         "cases": [
-            {"when": "wooden_pickaxe","model": {"type": "model","model": "item/custom/wooden_pickaxe"}}
+            {"when": "wooden_pickaxe","model": {"type": "model","model": "item/custom/tools/wooden_pickaxe"}}
         ]
     }
 }

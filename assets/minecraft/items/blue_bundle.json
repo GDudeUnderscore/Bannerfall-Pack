@@ -7,7 +7,7 @@
             "model": "item/blue_bundle"
         },
         "cases": [
-            {"when": "rare_gold_pouch","model": {"type": "model","model": "item/custom/rare_gold_pouch"}}
+            {"when": "rare_gold_pouch","model": {"type": "model","model": "item/custom/misc/gold_pouch/rare_gold_pouch"}}
         ]
     }
 }

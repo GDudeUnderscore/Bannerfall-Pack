@@ -7,11 +7,11 @@
             "model": "item/iron_axe"
         },
         "cases": [
-            {"when": "ragnarok","model": {"type": "model","model": "item/custom/ragnarok"}},
-            {"when": "icebreaker","model": {"type": "model","model": "item/custom/icebreaker"}},
-            {"when": "crystalline","model": {"type": "model","model": "item/custom/crystalline"}},
-            {"when": "hookfang","model": {"type": "model","model": "item/custom/hookfang"}},
-            {"when": "grimdark","model": {"type": "model","model": "item/custom/grimdark"}}
+            {"when": "ragnarok","model": {"type": "model","model": "item/custom/weapons/melee/axes/ragnarok"}},
+            {"when": "icebreaker","model": {"type": "model","model": "item/custom/weapons/melee/axes/icebreaker"}},
+            {"when": "crystalline","model": {"type": "model","model": "item/custom/weapons/melee/axes/crystalline"}},
+            {"when": "hookfang","model": {"type": "model","model": "item/custom/weapons/melee/axes/hookfang"}},
+            {"when": "grimdark","model": {"type": "model","model": "item/custom/weapons/melee/axes/grimdark"}}
         ]
     }
 }

@@ -7,7 +7,7 @@
             "model": "item/diamond_shovel"
         },
         "cases": [
-            {"when": "eternity","model": {"type": "model","model": "item/custom/eternity"}}
+            {"when": "eternity","model": {"type": "model","model": "item/custom/weapons/melee/staffs/eternity"}}
         ]
     }
 }

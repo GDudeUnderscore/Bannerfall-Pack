@@ -7,8 +7,8 @@
             "model": "item/netherite_sword"
         },
         "cases": [
-            {"when": "equinox","model": {"type": "model","model": "item/custom/equinox"}},
-            {"when": "constellation","model": {"type": "model","model": "item/custom/constellation"}}
+            {"when": "equinox","model": {"type": "model","model": "item/custom/weapons/melee/swords/equinox"}},
+            {"when": "constellation","model": {"type": "model","model": "item/custom/weapons/melee/swords/constellation"}}
         ]
     }
 }

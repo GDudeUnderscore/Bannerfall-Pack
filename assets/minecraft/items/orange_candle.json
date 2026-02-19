@@ -7,7 +7,7 @@
             "model": "item/orange_candle"
         },
         "cases": [
-            {"when": "elite_gilded_candle","model": {"type": "model","model": "item/custom/gilded_candles/elite_candle"}}
+            {"when": "elite_gilded_candle","model": {"type": "model","model": "item/custom/misc/gilded_candles/elite_candle"}}
         ]
     }
 }

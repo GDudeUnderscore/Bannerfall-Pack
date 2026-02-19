@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "minecraft:item/custom/weapons/ranged/leviathan/leviathan_pulling_0"
+  }
+}

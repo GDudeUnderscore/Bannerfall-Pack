@@ -7,7 +7,7 @@
             "model": "item/orange_bundle"
         },
         "cases": [
-            {"when": "legendary_gold_pouch","model": {"type": "model","model": "item/custom/legendary_gold_pouch"}}
+            {"when": "legendary_gold_pouch","model": {"type": "model","model": "item/custom/misc/gold_pouch/legendary_gold_pouch"}}
         ]
     }
 }

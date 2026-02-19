@@ -7,7 +7,7 @@
             "model": "block/glass"
         },
         "cases": [
-            {"when": "bubble","model": {"type": "model","model": "item/custom/bubble"}}
+            {"when": "bubble","model": {"type": "model","model": "item/custom/map/bubble"}}
         ]
     }
 }

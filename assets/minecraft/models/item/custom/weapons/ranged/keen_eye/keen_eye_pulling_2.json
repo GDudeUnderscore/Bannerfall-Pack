@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "minecraft:item/custom/weapons/ranged/keen_eye/keen_eye_pulling_2"
+  }
+}

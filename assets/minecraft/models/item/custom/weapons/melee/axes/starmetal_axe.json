@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/custom/weapons/melee/axes/starmetal_axe"
+	}
+}

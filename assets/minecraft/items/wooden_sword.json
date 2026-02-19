@@ -7,8 +7,10 @@
             "model": "item/wooden_sword"
         },
         "cases": [
-            {"when": "wooden_sword","model": {"type": "model","model": "item/custom/wooden_sword"}},
-            {"when": "sporebane","model": {"type": "model","model": "item/custom/sporebane"}}
+            {"when": "wooden_sword","model": {"type": "model","model": "item/custom/weapons/melee/swords/wooden_sword"}},
+            {"when": "sporebane","model": {"type": "model","model": "item/custom/weapons/melee/swords/sporebane"}},
+            {"when": "nautilus","model": {"type": "model","model": "item/custom/weapons/melee/swords/nautilus"}},
+            {"when": "verdant_scepter","model": {"type": "model","model": "item/custom/weapons/melee/swords/verdant_scepter"}}
         ]
     }
 }

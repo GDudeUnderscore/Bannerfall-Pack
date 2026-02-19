@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/misc/gold_pouch/rare_gold_pouch"
+	}
+}

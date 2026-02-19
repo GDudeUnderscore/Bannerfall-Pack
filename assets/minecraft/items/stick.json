@@ -7,8 +7,8 @@
             "model": "item/stick"
         },
         "cases": [
-            {"when": "old_stick","model": {"type": "model","model": "item/custom/old_stick"}},
-            {"when": "new_stick","model": {"type": "model","model": "item/custom/new_stick"}}
+            {"when": "old_stick","model": {"type": "model","model": "item/custom/weapons/melee/swords/old_stick"}},
+            {"when": "new_stick","model": {"type": "model","model": "item/custom/weapons/melee/swords/new_stick"}}
         ]
     }
 }

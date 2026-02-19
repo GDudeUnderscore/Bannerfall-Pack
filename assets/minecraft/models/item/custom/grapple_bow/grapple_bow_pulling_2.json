@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "minecraft:item/custom/grapple_bow/grapple_bow_pulling_2"
-  }
-}

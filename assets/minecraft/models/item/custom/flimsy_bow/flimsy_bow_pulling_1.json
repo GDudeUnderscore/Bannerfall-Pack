@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "item/custom/flimsy_bow/flimsy_bow_pulling_1"
-  }
-}

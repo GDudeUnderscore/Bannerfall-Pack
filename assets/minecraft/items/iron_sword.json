@@ -7,12 +7,12 @@
             "model": "item/iron_sword"
         },
         "cases": [
-            {"when": "steel_katana","model": {"type": "model","model": "item/custom/steel_katana"}},
-            {"when": "steel_sword","model": {"type": "model","model": "item/custom/steel_sword"}},
-            {"when": "flaming_dagger","model": {"type": "model","model": "item/custom/flaming_dagger"}},
-            {"when": "icicle","model": {"type": "model","model": "item/custom/icicle"}},
-            {"when": "swift_katana","model": {"type": "model","model": "item/custom/swift_katana"}},
-            {"when": "crystal_seekers","model": {"type": "model","model": "item/custom/crystal_seekers"}}
+            {"when": "steel_katana","model": {"type": "model","model": "item/custom/weapons/melee/swords/steel_katana"}},
+            {"when": "steel_sword","model": {"type": "model","model": "item/custom/weapons/melee/swords/steel_sword"}},
+            {"when": "flaming_dagger","model": {"type": "model","model": "item/custom/weapons/melee/swords/flaming_dagger"}},
+            {"when": "icicle","model": {"type": "model","model": "item/custom/weapons/melee/swords/icicle"}},
+            {"when": "swift_katana","model": {"type": "model","model": "item/custom/weapons/melee/swords/swift_katana"}},
+            {"when": "crystal_seekers","model": {"type": "model","model": "item/custom/weapons/melee/swords/crystal_seekers"}}
         ]
     }
 }

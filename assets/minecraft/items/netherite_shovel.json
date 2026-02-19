@@ -7,10 +7,10 @@
             "model": "item/netherite_shovel"
         },
         "cases": [
-            {"when": "voidroot","model": {"type": "model","model": "item/custom/voidroot"}},
-            {"when": "veinsplitter","model": {"type": "model","model": "item/custom/veinsplitter"}},
-            {"when": "ignis","model": {"type": "model","model": "item/custom/ignis"}},
-            {"when": "magma_thorn","model": {"type": "model","model": "item/custom/magma_thorn"}}
+            {"when": "voidroot","model": {"type": "model","model": "item/custom/weapons/melee/staffs/voidroot"}},
+            {"when": "veinsplitter","model": {"type": "model","model": "item/custom/weapons/melee/staffs/veinsplitter"}},
+            {"when": "ignis","model": {"type": "model","model": "item/custom/weapons/melee/spears/ignis"}},
+            {"when": "magma_thorn","model": {"type": "model","model": "item/custom/weapons/melee/spears/magma_thorn"}}
         ]
     }
 }

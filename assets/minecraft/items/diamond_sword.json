@@ -7,9 +7,9 @@
             "model": "item/diamond_sword"
         },
         "cases": [
-            {"when": "ancient_scimitar","model": {"type": "model","model": "item/custom/ancient_scimitar"}},
-            {"when": "luna","model": {"type": "model","model": "item/custom/luna"}},
-            {"when": "frozen_greatsword","model": {"type": "model","model": "item/custom/frozen_greatsword"}}
+            {"when": "ancient_scimitar","model": {"type": "model","model": "item/custom/weapons/melee/swords/ancient_scimitar"}},
+            {"when": "luna","model": {"type": "model","model": "item/custom/weapons/melee/swords/luna"}},
+            {"when": "frozen_greatsword","model": {"type": "model","model": "item/custom/weapons/melee/swords/frozen_greatsword"}}
         ]
     }
 }

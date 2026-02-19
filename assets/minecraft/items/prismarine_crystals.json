@@ -7,7 +7,7 @@
             "model": "item/prismarine_crystals"
         },
         "cases": [
-            {"when": "moonstone","model": {"type": "model","model": "item/custom/moonstone"}}
+            {"when": "moonstone","model": {"type": "model","model": "item/custom/resources/moonstone"}}
         ]
     }
 }

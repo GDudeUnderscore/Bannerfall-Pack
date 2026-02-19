@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/bow",
-  "textures": {
-    "layer0": "minecraft:item/custom/chronoweaver/chronoweaver_pulling_0"
-  }
-}

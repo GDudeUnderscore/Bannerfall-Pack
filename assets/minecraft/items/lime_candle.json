@@ -7,7 +7,7 @@
             "model": "item/lime_candle"
         },
         "cases": [
-            {"when": "donor_gilded_candle","model": {"type": "model","model": "item/custom/gilded_candles/donor_candle"}}
+            {"when": "donor_gilded_candle","model": {"type": "model","model": "item/custom/misc/gilded_candles/donor_candle"}}
         ]
     }
 }

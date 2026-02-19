@@ -7,11 +7,11 @@
             "model": "item/stone_sword"
         },
         "cases": [
-            {"when": "cobblestone_sword","model": {"type": "model","model": "item/custom/cobblestone_sword"}},
-            {"when": "bloodrage","model": {"type": "model","model": "item/custom/bloodrage"}},
-            {"when": "kelpy_cutlass","model": {"type": "model","model": "item/custom/kelpy_cutlass"}},
-            {"when": "lament","model": {"type": "model","model": "item/custom/lament"}},
-            {"when": "plaguebringer","model": {"type": "model","model": "item/custom/plaguebringer"}}
+            {"when": "cobblestone_sword","model": {"type": "model","model": "item/custom/weapons/melee/swords/cobblestone_sword"}},
+            {"when": "bloodrage","model": {"type": "model","model": "item/custom/weapons/melee/swords/bloodrage"}},
+            {"when": "kelpy_cutlass","model": {"type": "model","model": "item/custom/weapons/melee/swords/kelpy_cutlass"}},
+            {"when": "lament","model": {"type": "model","model": "item/custom/weapons/melee/swords/lament"}},
+            {"when": "plaguebringer","model": {"type": "model","model": "item/custom/weapons/melee/swords/plaguebringer"}}
         ]
     }
 }

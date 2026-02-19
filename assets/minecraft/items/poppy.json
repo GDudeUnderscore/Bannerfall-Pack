@@ -7,7 +7,7 @@
             "model": "item/poppy"
         },
         "cases": [
-            {"when": "thornbloom","model": {"type": "model","model": "item/custom/thornbloom"}}
+            {"when": "thornbloom","model": {"type": "model","model": "item/custom/weapons/melee/swords/thornbloom"}}
         ]
     }
 }

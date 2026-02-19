@@ -7,11 +7,11 @@
             "model": "item/golden_sword"
         },
         "cases": [
-            {"when": "arcanote","model": {"type": "model","model": "item/custom/arcanote"}},
-            {"when": "hellfire","model": {"type": "model","model": "item/custom/hellfire"}},
-            {"when": "thundral","model": {"type": "model","model": "item/custom/thundral"}},
-            {"when": "resonark","model": {"type": "model","model": "item/custom/resonark"}},
-            {"when": "sol","model": {"type": "model","model": "item/custom/sol"}}
+            {"when": "arcanote","model": {"type": "model","model": "item/custom/weapons/melee/swords/arcanote"}},
+            {"when": "hellfire","model": {"type": "model","model": "item/custom/weapons/melee/swords/hellfire"}},
+            {"when": "thundral","model": {"type": "model","model": "item/custom/weapons/melee/swords/thundral"}},
+            {"when": "resonark","model": {"type": "model","model": "item/custom/weapons/melee/swords/resonark"}},
+            {"when": "sol","model": {"type": "model","model": "item/custom/weapons/melee/swords/sol"}}
         ]
     }
 }

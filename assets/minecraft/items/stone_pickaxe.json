@@ -7,7 +7,7 @@
             "model": "item/stone_pickaxe"
         },
         "cases": [
-            {"when": "stone_pickaxe","model": {"type": "model","model": "item/custom/stone_pickaxe"}}
+            {"when": "stone_pickaxe","model": {"type": "model","model": "item/custom/tools/stone_pickaxe"}}
         ]
     }
 }

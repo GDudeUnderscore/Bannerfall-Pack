@@ -7,8 +7,7 @@
             "model": "item/wooden_axe"
         },
         "cases": [
-            {"when": "wooden_axe","model": {"type": "model","model": "item/custom/wooden_axe"}},
-            {"when": "viridis","model": {"type": "model","model": "item/custom/viridis"}}
+            {"when": "wooden_axe","model": {"type": "model","model": "item/custom/weapons/melee/axes/wooden_axe"}}
         ]
     }
 }

@@ -7,9 +7,8 @@
             "model": "item/iron_shovel"
         },
         "cases": [
-            {"when": "speed_spear","model": {"type": "model","model": "item/custom/speed_spear"}},
-            {"when": "iron_javelin","model": {"type": "model","model": "item/custom/iron_javelin"}},
-            {"when": "revenant","model": {"type": "model","model": "item/custom/revenant"}}
+            {"when": "speed_spear","model": {"type": "model","model": "item/custom/weapons/melee/spears/speed_spear"}},
+            {"when": "iron_javelin","model": {"type": "model","model": "item/custom/weapons/melee/spears/iron_javelin"}}
         ]
     }
 }

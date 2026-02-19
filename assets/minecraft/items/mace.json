@@ -7,7 +7,7 @@
             "model": "item/mace"
         },
         "cases": [
-            {"when": "glacier","model": {"type": "model","model": "item/custom/glacier"}}
+            {"when": "glacier","model": {"type": "model","model": "item/custom/weapons/melee/swords/glacier"}}
         ]
     }
 }
