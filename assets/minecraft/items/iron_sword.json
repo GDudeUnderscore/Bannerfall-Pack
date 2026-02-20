@@ -8,7 +8,7 @@
         },
         "cases": [
             {"when": "steel_katana","model": {"type": "model","model": "item/custom/weapons/melee/swords/steel_katana"}},
-            {"when": "steel_sword","model": {"type": "model","model": "item/custom/weapons/melee/swords/steel_sword"}},
+            {"when": "iron_cutlass","model": {"type": "model","model": "item/custom/weapons/melee/swords/iron_cutlass"}},
             {"when": "flaming_dagger","model": {"type": "model","model": "item/custom/weapons/melee/swords/flaming_dagger"}},
             {"when": "icicle","model": {"type": "model","model": "item/custom/weapons/melee/swords/icicle"}},
             {"when": "swift_katana","model": {"type": "model","model": "item/custom/weapons/melee/swords/swift_katana"}},
