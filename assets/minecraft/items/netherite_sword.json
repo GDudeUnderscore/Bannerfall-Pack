@@ -8,7 +8,8 @@
         },
         "cases": [
             {"when": "equinox","model": {"type": "model","model": "item/custom/weapons/melee/swords/equinox"}},
-            {"when": "constellation","model": {"type": "model","model": "item/custom/weapons/melee/swords/constellation"}}
+            {"when": "constellation","model": {"type": "model","model": "item/custom/weapons/melee/swords/constellation"}},
+            {"when": "muramasa","model": {"type": "model","model": "item/custom/weapons/melee/swords/muramasa"}}
         ]
     }
 }
