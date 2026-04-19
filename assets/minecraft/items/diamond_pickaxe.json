@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/diamond_pickaxe"
+        },
+        "cases": [
+            {"when": "diamond_pickaxe","model": {"type": "model","model": "item/custom/tools/diamond_pickaxe"}}
+        ]
+    }
+}
