@@ -7,10 +7,11 @@
             "model": "item/stone_axe"
         },
         "cases": [
-            {"when": "heavy_axe","model": {"type": "model","model": "item/custom/weapons/melee/axes/heavy_axe"}},
-            {"when": "cobblestone_axe","model": {"type": "model","model": "item/custom/weapons/melee/axes/cobblestone_axe"}},
-            {"when": "wintertusk","model": {"type": "model","model": "item/custom/weapons/melee/axes/wintertusk"}},
-            {"when": "razorcutter","model": {"type": "model","model": "item/custom/weapons/melee/axes/razorcutter"}}
+            {"when": "heavy_axe",       "model": {"type": "model", "model": "item/custom/weapons/melee/axes/heavy_axe"}},
+            {"when": "cobblestone_axe", "model": {"type": "model", "model": "item/custom/weapons/melee/axes/cobblestone_axe"}},
+            {"when": "wintertusk",      "model": {"type": "model", "model": "item/custom/weapons/melee/axes/wintertusk"}},
+            {"when": "razorcutter",     "model": {"type": "model", "model": "item/custom/weapons/melee/axes/razorcutter"}},
+            {"when": "blood_omen",      "model": {"type": "model", "model": "item/custom/weapons/melee/axes/blood_omen"}}
         ]
     }
 }
